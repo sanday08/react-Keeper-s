@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-Keeper-s/static/js/main.41da2306.chunk.js",
-    "main.js.map": "/react-Keeper-s/static/js/main.41da2306.chunk.js.map",
+    "main.js": "/react-Keeper-s/static/js/main.b531884f.chunk.js",
+    "main.js.map": "/react-Keeper-s/static/js/main.b531884f.chunk.js.map",
     "runtime-main.js": "/react-Keeper-s/static/js/runtime-main.955e0adf.js",
     "runtime-main.js.map": "/react-Keeper-s/static/js/runtime-main.955e0adf.js.map",
     "static/js/2.62475452.chunk.js": "/react-Keeper-s/static/js/2.62475452.chunk.js",
     "static/js/2.62475452.chunk.js.map": "/react-Keeper-s/static/js/2.62475452.chunk.js.map",
     "index.html": "/react-Keeper-s/index.html",
-    "precache-manifest.f81172bad31aaeef7c49a66d29561fb2.js": "/react-Keeper-s/precache-manifest.f81172bad31aaeef7c49a66d29561fb2.js",
+    "precache-manifest.a8a8557012ff1367873a69f2816ac885.js": "/react-Keeper-s/precache-manifest.a8a8557012ff1367873a69f2816ac885.js",
     "service-worker.js": "/react-Keeper-s/service-worker.js",
     "static/js/2.62475452.chunk.js.LICENSE.txt": "/react-Keeper-s/static/js/2.62475452.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.955e0adf.js",
     "static/js/2.62475452.chunk.js",
-    "static/js/main.41da2306.chunk.js"
+    "static/js/main.b531884f.chunk.js"
   ]
 }
