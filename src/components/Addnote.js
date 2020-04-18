@@ -27,7 +27,7 @@ function Addnote(props) {
         <input
           type="text"
           name="title"
-          placeholder="title"
+          placeholder="Title"
           value={note.title}
           onChange={onChangeHandle}
         />
