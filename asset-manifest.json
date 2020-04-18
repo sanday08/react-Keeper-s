@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/sanday08/react-Keeper-s.git/static/js/main.57ad6c4d.chunk.js",
-    "main.js.map": "/sanday08/react-Keeper-s.git/static/js/main.57ad6c4d.chunk.js.map",
-    "runtime-main.js": "/sanday08/react-Keeper-s.git/static/js/runtime-main.b58d6fd3.js",
-    "runtime-main.js.map": "/sanday08/react-Keeper-s.git/static/js/runtime-main.b58d6fd3.js.map",
-    "static/js/2.62475452.chunk.js": "/sanday08/react-Keeper-s.git/static/js/2.62475452.chunk.js",
-    "static/js/2.62475452.chunk.js.map": "/sanday08/react-Keeper-s.git/static/js/2.62475452.chunk.js.map",
-    "index.html": "/sanday08/react-Keeper-s.git/index.html",
-    "precache-manifest.21783ba9df4f767e2e7d604e4e008dc5.js": "/sanday08/react-Keeper-s.git/precache-manifest.21783ba9df4f767e2e7d604e4e008dc5.js",
-    "service-worker.js": "/sanday08/react-Keeper-s.git/service-worker.js",
-    "static/js/2.62475452.chunk.js.LICENSE.txt": "/sanday08/react-Keeper-s.git/static/js/2.62475452.chunk.js.LICENSE.txt"
+    "main.js": "/react-Keeper-s/static/js/main.57ad6c4d.chunk.js",
+    "main.js.map": "/react-Keeper-s/static/js/main.57ad6c4d.chunk.js.map",
+    "runtime-main.js": "/react-Keeper-s/static/js/runtime-main.955e0adf.js",
+    "runtime-main.js.map": "/react-Keeper-s/static/js/runtime-main.955e0adf.js.map",
+    "static/js/2.62475452.chunk.js": "/react-Keeper-s/static/js/2.62475452.chunk.js",
+    "static/js/2.62475452.chunk.js.map": "/react-Keeper-s/static/js/2.62475452.chunk.js.map",
+    "index.html": "/react-Keeper-s/index.html",
+    "precache-manifest.d1acb03d1d395b8a39d91b05c071fa2c.js": "/react-Keeper-s/precache-manifest.d1acb03d1d395b8a39d91b05c071fa2c.js",
+    "service-worker.js": "/react-Keeper-s/service-worker.js",
+    "static/js/2.62475452.chunk.js.LICENSE.txt": "/react-Keeper-s/static/js/2.62475452.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b58d6fd3.js",
+    "static/js/runtime-main.955e0adf.js",
     "static/js/2.62475452.chunk.js",
     "static/js/main.57ad6c4d.chunk.js"
   ]
